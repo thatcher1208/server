@@ -53,10 +53,3 @@ class Mailer extends helper.Mail {
 }
 
 module.exports = Mailer;
-
-
-
-
-
-
-
